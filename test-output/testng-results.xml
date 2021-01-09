@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-09T04:21:08Z" name="Default suite" finished-at="2021-01-09T04:21:14Z" duration-ms="5620">
+    <groups>
+    </groups>
+    <test started-at="2021-01-09T04:21:08Z" name="Default test" finished-at="2021-01-09T04:21:14Z" duration-ms="5620">
+      <class name="exercise.testingAPIs">
+        <test-method is-config="true" signature="configureTest()[pri:0, instance:exercise.testingAPIs@22fcf7ab]" started-at="2021-01-08T23:21:08Z" name="configureTest" finished-at="2021-01-08T23:21:09Z" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureTest -->
+        <test-method signature="deleteResource()[pri:0, instance:exercise.testingAPIs@22fcf7ab]" started-at="2021-01-08T23:21:09Z" name="deleteResource" finished-at="2021-01-08T23:21:11Z" duration-ms="1871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteResource -->
+        <test-method signature="getNoResource()[pri:0, instance:exercise.testingAPIs@22fcf7ab]" started-at="2021-01-08T23:21:11Z" name="getNoResource" finished-at="2021-01-08T23:21:13Z" duration-ms="1743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNoResource -->
+        <test-method signature="getResourceList()[pri:0, instance:exercise.testingAPIs@22fcf7ab]" started-at="2021-01-08T23:21:13Z" name="getResourceList" finished-at="2021-01-08T23:21:13Z" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResourceList -->
+        <test-method signature="getSingleResource()[pri:0, instance:exercise.testingAPIs@22fcf7ab]" started-at="2021-01-08T23:21:13Z" name="getSingleResource" finished-at="2021-01-08T23:21:13Z" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleResource -->
+        <test-method signature="postResource()[pri:0, instance:exercise.testingAPIs@22fcf7ab]" started-at="2021-01-08T23:21:13Z" name="postResource" finished-at="2021-01-08T23:21:14Z" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postResource -->
+      </class> <!-- exercise.testingAPIs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
